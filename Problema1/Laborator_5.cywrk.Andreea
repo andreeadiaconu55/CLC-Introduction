@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Laborator_5\Design01">
+<ExpandedNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01\TopDesign</v>
+<v>Laborator_5\Design01\Design01.cydwr</v>
+<v>Laborator_5\Design01\Design01.cydwr\Pins</v>
+<v>Laborator_5\Design01\Design01.cydwr\Analog</v>
+<v>Laborator_5\Design01\Design01.cydwr\Clocks</v>
+<v>Laborator_5\Design01\Design01.cydwr\Interrupts</v>
+<v>Laborator_5\Design01\Design01.cydwr\DMA</v>
+<v>Laborator_5\Design01\Design01.cydwr\System</v>
+<v>Laborator_5\Design01\Design01.cydwr\Directives</v>
+<v>Laborator_5\Design01\Design01.cydwr\Flash Security</v>
+<v>Laborator_5\Design01\Design01.cydwr\EEPROM</v>
+<v>Laborator_5\Design01\Header Files</v>
+<v>Laborator_5\Design01\Header Files\cyapicallbacks.h</v>
+<v>Laborator_5\Design01\Source Files</v>
+<v>Laborator_5\Design01\Source Files\main.c</v>
+<v>Laborator_5\Design01\Generated_Source</v>
+<v>Laborator_5\Design01\Generated_Source\PSoC3</v>
+<v>Laborator_5\problema_1\TopDesign</v>
+<v>Laborator_5\problema_1\problema_1.cydwr</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Pins</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Analog</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Clocks</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Interrupts</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\DMA</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\System</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Directives</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\Flash Security</v>
+<v>Laborator_5\problema_1\problema_1.cydwr\EEPROM</v>
+<v>Laborator_5\problema_1\Header Files</v>
+<v>Laborator_5\problema_1\Header Files\cyapicallbacks.h</v>
+<v>Laborator_5\problema_1\Source Files</v>
+<v>Laborator_5\problema_1\Source Files\main.c</v>
+<v>Laborator_5\problema_5\TopDesign</v>
+<v>Laborator_5\problema_5\problema_5.cydwr</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Pins</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Analog</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Clocks</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Interrupts</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\DMA</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\System</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Directives</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\Flash Security</v>
+<v>Laborator_5\problema_5\problema_5.cydwr\EEPROM</v>
+<v>Laborator_5\problema_5\Header Files</v>
+<v>Laborator_5\problema_5\Header Files\cyapicallbacks.h</v>
+<v>Laborator_5\problema_5\Source Files</v>
+<v>Laborator_5\problema_5\Source Files\main.c</v>
+<v>Laborator_5\problema_5\Generated_Source</v>
+<v>Laborator_5\problema_5\Generated_Source\PSoC3</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_5</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\TopDesign</v>
+<v>Laborator_5\Design01\TopDesign\TopDesign.cysch</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\TopDesign</v>
+<v>Laborator_5\problema_1\TopDesign\TopDesign.cysch</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\TopDesign</v>
+<v>Laborator_5\problema_5\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\TopDesign</v>
+<v>Laborator_5\Design01\TopDesign\TopDesign.cysch</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\TopDesign</v>
+<v>Laborator_5\problema_1\TopDesign\TopDesign.cysch</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\TopDesign</v>
+<v>Laborator_5\problema_5\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\DP8051</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED1.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.elf</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.hex</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.map</v>
+<v>Laborator_5\Design01\Design01.gpdsc</v>
+<v>Laborator_5\Design01\Design01.rpt</v>
+<v>Laborator_5\Design01\Design01_timing.html</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\DP8051</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.elf</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.hex</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.map</v>
+<v>Laborator_5\problema_1\problema_1.gpdsc</v>
+<v>Laborator_5\problema_1\problema_1.rpt</v>
+<v>Laborator_5\problema_1\problema_1_timing.html</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\DP8051</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\LED1.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\problema_5.elf</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\problema_5.hex</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\problema_5.map</v>
+<v>Laborator_5\problema_5\problema_5.gpdsc</v>
+<v>Laborator_5\problema_5\problema_5.rpt</v>
+<v>Laborator_5\problema_5\problema_5_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\DP8051</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED1.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.elf</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.hex</v>
+<v>Laborator_5\Design01\DP8051\DP8051_Keil_951\Debug\Design01.map</v>
+<v>Laborator_5\Design01\Design01.gpdsc</v>
+<v>Laborator_5\Design01\Design01.rpt</v>
+<v>Laborator_5\Design01\Design01_timing.html</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\DP8051</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.elf</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.hex</v>
+<v>Laborator_5\problema_1\DP8051\DP8051_Keil_951\Debug\problema_1.map</v>
+<v>Laborator_5\problema_1\problema_1.gpdsc</v>
+<v>Laborator_5\problema_1\problema_1.rpt</v>
+<v>Laborator_5\problema_1\problema_1_timing.html</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\DP8051</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_5\problema_5\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\Design01\CY8C38 Family Datasheet</v>
+<v>Laborator_5\Design01\System Reference Guides</v>
+<v>Laborator_5\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\Design01\cy_constant_v1_0</v>
+<v>Laborator_5\Design01\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\Design01\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\Design01\mux_v1_10.pdf</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\problema_1\CY8C38 Family Datasheet</v>
+<v>Laborator_5\problema_1\System Reference Guides</v>
+<v>Laborator_5\problema_1\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\problema_1\cy_constant_v1_0</v>
+<v>Laborator_5\problema_1\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\problema_1\cy_pins_v2_20</v>
+<v>Laborator_5\problema_1\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\problema_1\DigitalComp_v1_0</v>
+<v>Laborator_5\problema_1\DigitalComp_v1_0\DigitalComp_v1_0.pdf</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\problema_5\CY8C38 Family Datasheet</v>
+<v>Laborator_5\problema_5\System Reference Guides</v>
+<v>Laborator_5\problema_5\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\problema_5\cy_constant_v1_0</v>
+<v>Laborator_5\problema_5\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\problema_5\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\problema_5\demux_v1_10.pdf</v>
+<v>Laborator_5\problema_5\or_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_5</v>
+<v>Laborator_5\Design01</v>
+<v>Laborator_5\Design01\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\Design01\CY8C38 Family Datasheet</v>
+<v>Laborator_5\Design01\System Reference Guides</v>
+<v>Laborator_5\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\Design01\cy_constant_v1_0</v>
+<v>Laborator_5\Design01\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\Design01\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\Design01\mux_v1_10.pdf</v>
+<v>Laborator_5\problema_1</v>
+<v>Laborator_5\problema_1\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\problema_1\CY8C38 Family Datasheet</v>
+<v>Laborator_5\problema_1\System Reference Guides</v>
+<v>Laborator_5\problema_1\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\problema_1\cy_constant_v1_0</v>
+<v>Laborator_5\problema_1\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\problema_1\cy_pins_v2_20</v>
+<v>Laborator_5\problema_1\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\problema_1\DigitalComp_v1_0</v>
+<v>Laborator_5\problema_1\DigitalComp_v1_0\DigitalComp_v1_0.pdf</v>
+<v>Laborator_5\problema_5</v>
+<v>Laborator_5\problema_5\PSoC 3 Architecture TRM</v>
+<v>Laborator_5\problema_5\CY8C38 Family Datasheet</v>
+<v>Laborator_5\problema_5\System Reference Guides</v>
+<v>Laborator_5\problema_5\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_5\problema_5\cy_constant_v1_0</v>
+<v>Laborator_5\problema_5\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>Laborator_5\problema_5\cy_pins_v2_20.pdf</v>
+<v>Laborator_5\problema_5\demux_v1_10.pdf</v>
+<v>Laborator_5\problema_5\or_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

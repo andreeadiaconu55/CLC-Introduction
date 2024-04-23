@@ -1,0 +1,8 @@
+--------------- Build Started: 03/25/2024 10:27:39 Project: Design01, Configuration: DP8051 Keil 9.51 Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Andreea\AppData\Local\Cypress Semiconductor\PSoC Creator\4.4" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\Andreea\OneDrive\Desktop\ASDN\Problema1\Design01.cydsn\Design01.cyprj -d CY8C3866AXI-040 -s C:\Users\Andreea\OneDrive\Desktop\ASDN\Problema1\Design01.cydsn\Generated_Source\PSoC3 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=BE
+Elaborating Design...
+ADD: sdb.M0017: error: No drivers on signal "Net_24", bit(s) "0".
+ * C:\Users\Andreea\OneDrive\Desktop\ASDN\Problema1\Design01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_24)
+ * C:\Users\Andreea\OneDrive\Desktop\ASDN\Problema1\Design01.cydsn\TopDesign\TopDesign.cysch (Shape_19)
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 03/25/2024 10:27:44 ---------------
